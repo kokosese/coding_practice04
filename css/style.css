@@ -824,6 +824,9 @@ footer .text {
     z-index: 10;
     transition: 0.3s all;
 }
+.top_btn:hover {
+    opacity:0.7;
+}
 
 .top_btn:before {
     content:'';
